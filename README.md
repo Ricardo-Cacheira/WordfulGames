@@ -12,9 +12,9 @@ This is a list of online wordle like games
 
 [Sedecordle](https://sedecordlegame.org/) - 16 simultaneous wordle boards, multiple languages
 
-[](https://playlessgames.com/wordless) - Wordle with 3,4,5,6,7,8 letter words
+[Wordless](https://playlessgames.com/wordless) - Wordle with 3,4,5,6,7,8 letter words
 
-[](https://playlessgames.com/songless) - Guess the song from x seconds of audio
+[Songless](https://playlessgames.com/songless) - Guess the song from x seconds of audio
 
 [Feudle](https://googlefeud.com/feudle/) - Feud-style wordle
 
